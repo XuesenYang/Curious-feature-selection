@@ -6,6 +6,6 @@ Implementation of curious-feature-selection
   The source code CFS is implemented by Yang Xuesen     
   If you have any questions about the code, please contact:      
   Yang Xuesen at 1348825332@qq.com    
-  Institution: Shenzhen University
-  date:2019-7-14
+  Institution: Shenzhen University    
+  date:2019-7-14    
   For my first SCI paper!
