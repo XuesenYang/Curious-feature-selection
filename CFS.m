@@ -3,7 +3,7 @@ name={'sonar','Hill','SPECTHeart','Libras Movement','LSVT'...
      'Urban land cover','ionosphere','colon','ForestTypes','GLIOMA','lung_discrete','Yale'};
 addpath(genpath('dataset'));
 num_dataset=length(name);
-for id=1:num_dataset %:num_dataset   %选择数据集，可以手动改
+for id=1:num_dataset %:num_dataset   
 dataset=name{id};
 switch dataset    
     case 'sonar'
